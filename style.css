@@ -6,7 +6,10 @@
 }
 
 body{
-    background:#0d1117;
+    background: linear-gradient(-45deg,#0d1117,#111827,#071b2b,#0d1117);
+background-size:400% 400%;
+animation:bgAnimation 12s ease infinite;
+overflow-x:hidden;
     color:white;
 }
 
