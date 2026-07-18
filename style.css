@@ -24,7 +24,13 @@ overflow-x:hidden;
 }
 
 .hero h1{
-    font-size:55px;
+    font-size:60px;
+    color:#00ff99;
+    text-shadow:
+        0 0 10px #00ff99,
+        0 0 20px #00ff99,
+        0 0 40px #00ff99;
+}
 }
 
 .hero h2{
